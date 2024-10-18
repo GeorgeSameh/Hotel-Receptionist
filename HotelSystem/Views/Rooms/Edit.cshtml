@@ -1,0 +1,27 @@
+﻿@model HotelSystem.Models.Room
+
+<h2>Edit Room</h2>
+
+<form asp-action="Edit">
+    <div class="form-group">
+        <label asp-for="Floor" class="control-label"></label>
+        <input asp-for="Floor" class="form-control" />
+        <span asp-validation-for="Floor" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Type" class="control-label"></label>
+        <input asp-for="Type" class="form-control" />
+        <span asp-validation-for="Type" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Price" class="control-label"></label>
+        <input asp-for="Price" class="form-control" />
+        <span asp-validation-for="Price" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Status" class="control-label"></label>
+        <input asp-for="Status" class="form-control" />
+        <span asp-validation-for="Status" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+</form>

@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6107BEB4-BCBB-4555-A489-AC5A60F33DD8}|HotelSystem\\HotelSystem.csproj|d:\\depi\\project\\hotel_receptionist-master\\hotel_receptionist-master\\hotelsystem\\models\\guestt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6107BEB4-BCBB-4555-A489-AC5A60F33DD8}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\models\\guestt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6107BEB4-BCBB-4555-A489-AC5A60F33DD8}|HotelSystem\\HotelSystem.csproj|d:\\depi\\project\\hotel_receptionist-master\\hotel_receptionist-master\\hotelsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6107BEB4-BCBB-4555-A489-AC5A60F33DD8}|HotelSystem\\HotelSystem.csproj|solutionrelative:hotelsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Migrations\\20241018123408_editGuestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HotelSystem\\Migrations\\20241018123408_editGuestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 437,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241018123408_editGuestmodel.cs",
+              "DocumentMoniker": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Migrations\\20241018123408_editGuestmodel.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Migrations\\20241018123408_editGuestmodel.cs",
+              "ToolTip": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Migrations\\20241018123408_editGuestmodel.cs",
+              "RelativeToolTip": "HotelSystem\\Migrations\\20241018123408_editGuestmodel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:34:08.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Guestt.cs",
+              "DocumentMoniker": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Models\\Guestt.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Models\\Guestt.cs",
+              "ToolTip": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Models\\Guestt.cs",
+              "RelativeToolTip": "HotelSystem\\Models\\Guestt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T12:21:20.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Program.cs",
+              "RelativeDocumentMoniker": "HotelSystem\\Program.cs",
+              "ToolTip": "D:\\depi\\project\\Hotel_Receptionist-master\\Hotel_Receptionist-master\\HotelSystem\\Program.cs",
+              "RelativeToolTip": "HotelSystem\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:11:50.687Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
